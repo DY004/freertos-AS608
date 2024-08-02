@@ -1,0 +1,15 @@
+as608\mb_m.o: ..\freemodbus\modbus\mb_m.c
+as608\mb_m.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+as608\mb_m.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+as608\mb_m.o: ..\modbus_P\port.h
+as608\mb_m.o: D:\keil5\ARM\ARMCC\Bin\..\include\assert.h
+as608\mb_m.o: D:\keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+as608\mb_m.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+as608\mb_m.o: ..\freemodbus\modbus\include\mb.h
+as608\mb_m.o: ..\freemodbus\modbus\include\mbport.h
+as608\mb_m.o: ..\freemodbus\modbus\include\mbproto.h
+as608\mb_m.o: ..\freemodbus\modbus\include\mb_m.h
+as608\mb_m.o: ..\freemodbus\modbus\include\mbconfig.h
+as608\mb_m.o: ..\freemodbus\modbus\include\mbframe.h
+as608\mb_m.o: ..\freemodbus\modbus\include\mbfunc.h
+as608\mb_m.o: ..\freemodbus\modbus\rtu\mbrtu.h
